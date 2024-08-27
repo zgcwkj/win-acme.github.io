@@ -3,7 +3,7 @@ sidebar: reference
 ---
 
 # Alibaba Cloud / Aliyun 
-Create the record at [Alibaba Cloud](https://www.alibabacloud.com/). This requires an API key.
+Create the record at [Alibaba Cloud](http://ram.console.aliyun.com/manage/ak). This requires an API key.
 
 {% include plugin-seperate.md %}
 
